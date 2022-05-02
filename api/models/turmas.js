@@ -18,7 +18,7 @@ module.exports = (sequelize, DataTypes) => {
       })
       Turmas.belongsTo(models.Niveis, {
         foreignKey: 'nivel_id'
-      }) 
+      }); 
 
     }
   }
