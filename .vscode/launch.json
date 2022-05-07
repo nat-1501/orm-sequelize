@@ -1,0 +1,8 @@
+{
+    "type": "node",
+    "request": "launch",
+    "name": "DEBUG API",
+    "runtimeVersion": "14",
+    "program": "${workspaceFolder}/api/index.js"
+    
+}
